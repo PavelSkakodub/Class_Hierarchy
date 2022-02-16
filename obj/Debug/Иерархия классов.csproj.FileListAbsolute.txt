@@ -1,0 +1,10 @@
+C:\Users\Костя  и  Паша\source\repos\Иерархия классов\bin\Debug\Иерархия классов.exe.config
+C:\Users\Костя  и  Паша\source\repos\Иерархия классов\bin\Debug\Иерархия классов.exe
+C:\Users\Костя  и  Паша\source\repos\Иерархия классов\bin\Debug\Иерархия классов.pdb
+C:\Users\Костя  и  Паша\source\repos\Иерархия классов\obj\Debug\Иерархия классов.csprojAssemblyReference.cache
+C:\Users\Костя  и  Паша\source\repos\Иерархия классов\obj\Debug\Иерархия_классов.Properties.Resources.resources
+C:\Users\Костя  и  Паша\source\repos\Иерархия классов\obj\Debug\Иерархия классов.csproj.GenerateResource.cache
+C:\Users\Костя  и  Паша\source\repos\Иерархия классов\obj\Debug\Иерархия классов.csproj.CoreCompileInputs.cache
+C:\Users\Костя  и  Паша\source\repos\Иерархия классов\obj\Debug\Иерархия классов.exe
+C:\Users\Костя  и  Паша\source\repos\Иерархия классов\obj\Debug\Иерархия классов.pdb
+C:\Users\Костя  и  Паша\source\repos\Иерархия классов\obj\Debug\Иерархия_классов.Form1.resources
